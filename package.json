@@ -8,7 +8,7 @@
     "@material-ui/icons": "^1.1.0",
     "@trendmicro/react-sidenav": "^0.4.5",
     "@vimeo/player": "^2.8.2",
-    "ajv": "^6.5.1",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "emoji-picker-react": "^2.1.1",
     "flow": "^0.2.3",
