@@ -52,7 +52,7 @@
     "flow-copy-source": "^1.1.0",
     "gh-pages": "0.11.0",
     "husky": "0.11.9",
-    "nwb": "^0.23.0",
+    "nwb": "^0.25.2",
     "prettier": "^1.15.3"
   },
   "scripts": {
